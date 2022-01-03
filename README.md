@@ -1,3 +1,3 @@
 # twitter-bot
 
-Tweetify Bot randomly tweets text file of quotes every hour. 
+This Java twitter bot tweets quotes from a text file every hour. 
