@@ -1,3 +1,3 @@
-# Tweetify-Bot
+# twitter-bot
 
-Tweetify Bot randomly tweets a randomly selected song using Spotify every hour. 
+Tweetify Bot randomly tweets text file of quotes every hour. 
